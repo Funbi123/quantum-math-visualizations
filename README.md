@@ -1,3 +1,7 @@
+Companion repository for the Medium article: Understanding Quantum States: Mathematics, Physics, and Computation
+
+Read the article here: https://medium.com/your-article-link
+
 Taylor Series Visualizer
 
 This code visualizes the transition of a polynomial into the exponential function as infintely many terms are added. In this project, an interactive slider would be used to control the addition of terms and the results would be visualized on a graph.
@@ -17,5 +21,3 @@ Determine the projection matrix of the state and understand it significance
 Rotate the basis and change it to see its effect on the system
 Visualize it on a Bloch Sphere
 Measure the state
-
-I would do all of these first with a qubit and then the real project would be on photon polarization.
