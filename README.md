@@ -1,6 +1,6 @@
 Companion repository for the Medium article: Understanding Quantum States: Mathematics, Physics, and Computation
 
-Read the article here: https://medium.com/your-article-link
+Read the article here: https://medium.com/@idrisayilara54/understanding-quantum-states-mathematics-physics-and-computation-fce500cc22a0
 
 Taylor Series Visualizer
 
